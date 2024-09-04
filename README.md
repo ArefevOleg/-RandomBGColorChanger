@@ -1,4 +1,4 @@
-#  Building a Random Background Color Changer из курса [freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
+#  Building a Random Background Color
 Создаём программу для случайного изменения цвета фона, находим и исправляем ошибки.
 
 ## 1.
@@ -63,3 +63,6 @@ console.log(btn);
 btn.onclick = changeBackgroundColor();
 // btn.onclick = changeBackgroundColor;
 ```
+
+
+###### из курса [freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
